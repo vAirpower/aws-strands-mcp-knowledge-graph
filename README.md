@@ -1,4 +1,4 @@
-# AWS Strands Agent with MCP Knowledge Graph Visualization
+# AWS Strands Agent with MCP Knowledge Graph Proof of Concept (Test-to-SPARQL/STARDOG)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.47+-red.svg)](https://streamlit.io/)
@@ -6,7 +6,7 @@
 [![MCP](https://img.shields.io/badge/Protocol-MCP-green.svg)](https://modelcontextprotocol.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Production-ready Streamlit application featuring AWS Strands Agents, Model Context Protocol (MCP) server integration, and interactive knowledge graph visualization with Claude 3.7 Sonnet.
+> PoC-ready Streamlit application featuring AWS Strands Agents, Model Context Protocol (MCP) server integration, and interactive knowledge graph visualization with Claude 3.7 Sonnet.
 
 ## 🌟 Features
 
@@ -353,4 +353,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it useful!**
 
-Made with ❤️ by the vAirpower team
+Made with ❤️ by Adam Bluhm
