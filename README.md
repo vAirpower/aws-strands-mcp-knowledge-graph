@@ -1,4 +1,6 @@
 # AWS Strands Agent with MCP Knowledge Graph Proof of Concept (Text-to-SPARQL/STARDOG)
+![Uploading image.png…]()
+
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.47+-red.svg)](https://streamlit.io/)
